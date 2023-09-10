@@ -7,7 +7,8 @@
 body{
     display: flex;
     justify-content: center;
-    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Ftemperature-scale-conversion&psig=AOvVaw2EiUMNpubFWSf8Y3wJnMeS&ust=1694419710819000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiatbnLn4EDFQAAAAAdAAAAABAE);
+    background-image: url(https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
     align-items: center;
     min-height: 100vh;
 }
